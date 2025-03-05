@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/gameotivity2/static/css/main.103429af.css",
+    "main.js": "/gameotivity2/static/js/main.a77b5195.js",
+    "static/media/nft card.png": "/gameotivity2/static/media/nft card.f42a38f2f3f22d9db1bf.png",
+    "static/media/networkprotocol.png": "/gameotivity2/static/media/networkprotocol.d5ca5f3afa79cb829c11.png",
+    "static/media/3dmockup.png": "/gameotivity2/static/media/3dmockup.b4fc89a259b555a8597f.png",
+    "static/media/Artboard 10.png": "/gameotivity2/static/media/Artboard 10.2c6090b79416a90f0dba.png",
+    "static/media/mockup 10.png": "/gameotivity2/static/media/mockup 10.964ad2fce28fb58f1028.png",
+    "static/media/mockup 3.png": "/gameotivity2/static/media/mockup 3.43f579efd809b516b6f3.png",
+    "static/media/Artboard 12.png": "/gameotivity2/static/media/Artboard 12.34e6c9a7387c5ce63875.png",
+    "static/media/mockup 2.png": "/gameotivity2/static/media/mockup 2.42d6fc9737ccab63e8b2.png",
+    "static/media/home page bg.png": "/gameotivity2/static/media/home page bg.dea7024ecd31ecb3294c.png",
+    "static/media/Artboard 9.png": "/gameotivity2/static/media/Artboard 9.c936d803e9c6563c0df9.png",
+    "static/media/private sale.png": "/gameotivity2/static/media/private sale.25c4a7ce092d07d07f5a.png",
+    "static/media/Artboard 7.png": "/gameotivity2/static/media/Artboard 7.41371b8e35eb39508c3c.png",
+    "static/media/news3.jpeg": "/gameotivity2/static/media/news3.99667c6a8ba59acb9c67.jpeg",
+    "static/media/Artboard 5.png": "/gameotivity2/static/media/Artboard 5.393f156e03e73bb82f89.png",
+    "static/media/chainlink.png": "/gameotivity2/static/media/chainlink.2446c371638e5da32f7a.png",
+    "static/media/Artboard 8.png": "/gameotivity2/static/media/Artboard 8.291ed84483c9e2c360f7.png",
+    "static/media/news2.jpeg": "/gameotivity2/static/media/news2.f2d1430da1a387c6ca04.jpeg",
+    "static/media/Artboard 80.png": "/gameotivity2/static/media/Artboard 80.344b73c2d1487d1edc0a.png",
+    "static/media/Lbank.png": "/gameotivity2/static/media/Lbank.589c61192ab0f32959be.png",
+    "static/media/nstp1.png": "/gameotivity2/static/media/nstp1.adbf5161ba635badeadc.png",
+    "static/media/airuni.png": "/gameotivity2/static/media/airuni.2949132f216f7dd14813.png",
+    "static/media/kucoin.svg": "/gameotivity2/static/media/kucoin.9ac537916a777f72b11fa5a1f143117a.svg",
+    "static/media/polygon.svg": "/gameotivity2/static/media/polygon.e3a43a17664201ac22135175a8554690.svg",
+    "static/media/slick.svg": "/gameotivity2/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/gameotivity2/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/gameotivity2/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/gameotivity2/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/gameotivity2/index.html",
+    "main.103429af.css.map": "/gameotivity2/static/css/main.103429af.css.map",
+    "main.a77b5195.js.map": "/gameotivity2/static/js/main.a77b5195.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.103429af.css",
+    "static/js/main.a77b5195.js"
+  ]
+}
